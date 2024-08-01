@@ -1,0 +1,65 @@
+body{
+    background-color:#F8EDE3 !important;
+    text-align: center;
+}
+
+h2{
+    color:#A2B29F;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px !important;
+    text-align: center;
+}
+
+h3{
+    color:#fff;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+p,input{
+
+    font-family: "Indie Flower", cursive !important;
+    font-size: 25px !important;
+    font-style: bold !important;
+
+}
+
+.content{
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    top:20%;
+    left: 10%;
+}
+
+.box{
+    font-size: 25px !important;
+    background-color: #fff;
+    color:#fff;
+    margin:10px;
+    border-radius: 10px;
+
+
+}
+.body{
+    padding: 10px;
+   height: 40% !important;
+}
+
+.head-to-do{
+    background-color: #BDD2B6;
+    border-radius: 10px 10px 0 0;
+    padding: 5px;
+    text-align: center;
+}
+.head-completed{
+    background-color:#798777;
+    border-radius: 10px 10px 0 0;
+    padding: 5px;
+    text-align: center;
+}
+.btn-add{
+    padding: 10px 30px !important;
+    font-size:15px !important;
+    background-color:#A2B29F !important
+}
